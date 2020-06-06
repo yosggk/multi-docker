@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "MultiDocker-env.eba-6ud3timm.us-east-2.elasticbeanstalk.com"
+  "homepage": "http://multidocker-env.eba-6ud3timm.us-east-2.elasticbeanstalk.com/"
 }
