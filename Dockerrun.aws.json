@@ -17,8 +17,8 @@
         },
         {
             "name": "worker",
-            "image": "yo1sggk1/multi-woker",
-            "hostname": "woker",
+            "image": "yo1sggk1/multi-worker",
+            "hostname": "worker",
             "essential": false,
             "memory": 128
         },
