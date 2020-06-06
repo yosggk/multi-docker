@@ -13,7 +13,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "homepage": "MultiDocker-env.eba-6ud3timm.us-east-2.elasticbeanstalk.com"
-  }
+    "eject": "react-scripts eject"
+  },
+  "homepage": "MultiDocker-env.eba-6ud3timm.us-east-2.elasticbeanstalk.com"
 }
