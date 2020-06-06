@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "client",
-            "imgae": "yo1sggk1/multi-client",
+            "image": "yo1sggk1/multi-client",
             "hostname": "client",
             "essntial": false,
             "memory": 128
