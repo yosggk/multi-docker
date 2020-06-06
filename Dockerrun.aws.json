@@ -5,28 +5,28 @@
             "name": "client",
             "image": "yo1sggk1/multi-client",
             "hostname": "client",
-            "essntial": false,
+            "essential": false,
             "memory": 128
         },
         {
             "name": "server",
             "image": "yo1sggk1/multi-server",
             "hostname": "api",
-            "essntial": false,
+            "essential": false,
             "memory": 128
         },
         {
             "name": "worker",
             "image": "yo1sggk1/multi-woker",
             "hostname": "woker",
-            "essntial": false,
+            "essential": false,
             "memory": 128
         },
         {
             "name": "nginx",
             "image": "yo1sggk1/multi-nginx",
             "hostname": "nginx",
-            "essntial": true,
+            "essential": true,
             "portMappings": [
                 {
                     "hostPort": 80,
